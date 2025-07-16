@@ -72,7 +72,7 @@ I am an aspiring AI engineer with a strong foundation in programming and data an
 ## ✨ Quote I Live By
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="300" alt="Subtle professional terminal animation" /><br/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="350" alt="Dark hacker computer scene" /><br/>
   <strong>“The future belongs to those who learn more skills and combine them in creative ways.”</strong><br/>
   <em>— Robert Greene</em>
 </p>
