@@ -87,7 +87,7 @@ Google Colab | Git | DBMS | OOP | CNNs | AI Detection | API Deployment (FastAPI)
 
 ## 🌐 Let's Connect!
 
-📫 Email: **dragoXtrme666@gmail.com**  
+📫 Email: **hamzahalim9211@gmail.com**  
 💼 LinkedIn: [Add your profile here]  
 🧠 Always open to collaborations, mentorship, or cool AI talks!
 
