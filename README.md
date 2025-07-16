@@ -71,8 +71,6 @@ I am an aspiring AI engineer with a strong foundation in programming and data an
 
 ## ✨ Quote I Live By
 
-## ✨ Quote I Live By
-
 <p align="center">
   <img src="https://i.imgur.com/pQT0l.gif" width="350" alt="Dark hacker computer scene" />
 </p>
