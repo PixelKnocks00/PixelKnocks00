@@ -47,19 +47,6 @@ I am an aspiring AI engineer with a strong foundation in programming and data an
 ### 🎯 Facial Expression Recognition (CNN)
 > Custom-trained CNN using FER-2013, CK+, and RAF-DB datasets. Focused on achieving 90%+ accuracy through dataset integration and model optimization.
 
-### 📚 Library Management System
-> Advanced DBMS project with full ER modeling, normalization (3NF), and SQL DDL/DML queries covering books, members, staff, and reservations.
-
-### 🚗 Parking Management System (C++)
-> Multi-level parking lot simulation using object-oriented design, stacks, queues, and dynamic arrays.
-
-### 📰 Fake News Detection
-> Built with SentenceTransformers + XGBoost for binary text classification. Features custom UI and local deployment using FastAPI.
-
-### 💼 Income Prediction with EDA
-> Full data cleaning, visualization, and model deployment using the `adult.csv` dataset and Random Forest.
-
----
 
 ## 📑 Documents & Reports
 
