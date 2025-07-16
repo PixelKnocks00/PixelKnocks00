@@ -1,96 +1,100 @@
-# 👋 Hi there! I'm Hamza Halim
+<h1 align="center">Hi, I'm Hamza Halim 👋</h1>
 
-🚀 AI & Data Science Enthusiast | Python, SQL & C++ Developer  
-🎓 Undergrad Student | Passionate about real-world AI solutions
+<p align="center">
+  <strong>AI & Data Science Enthusiast | Python, SQL & C++ Developer | 4th Semester AI Undergraduate</strong>
+</p>
 
----
-
-![AI Banner](https://raw.githubusercontent.com/your-username/your-repo/main/assets/banner.gif) <!-- Replace with actual banner image -->
-
----
-
-## 💡 Currently Learning
-
-- 📊 SQL & Database Design (Normalization, ERDs, Transactions)
-- 📈 Exploratory Data Analysis (Pandas, NumPy, Seaborn, Matplotlib)
-- 🤖 Deep Learning (CNN, FER, Keras/TensorFlow)
-- 🧠 Facial Expression Recognition using FER-2013, CK+, RAF-DB
-- 🌐 Frontend Basics (HTML/CSS/JS for ML model deployment)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
+</p>
 
 ---
 
-## 📌 Interests
+## 🚀 About Me
 
-- 🧠 Machine Learning & Deep Learning  
-- 🕵️ AI-Powered Fake Content Detection  
-- 📊 Data Visualization & BI Reporting  
-- 🤖 Chatbots & NLP  
-- 🧮 Data Structures & Algorithms  
-- 🔧 Network Protocols & System Architecture  
+I am an aspiring AI engineer with a strong foundation in programming and data analysis. Currently pursuing a Bachelor's degree in Artificial Intelligence, I focus on building real-world solutions using machine learning, structured databases, and clean code design.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Current Focus Areas
 
-**Languages:**  
-Python | SQL | C++ | HTML | CSS | JavaScript
+- 🔍 **Exploratory Data Analysis** using Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🧠 **Deep Learning Projects** with Convolutional Neural Networks (CNNs)
+- 🗃️ **SQL & Database Design** (Normalization, Transactions, ERD, Functional Dependencies)
+- 🌐 **Frontend Fundamentals** (HTML/CSS/JavaScript for deploying AI models)
+- 📚 Continuous learning in **Data Structures & Algorithms** and **Networking Concepts**
 
-**Libraries/Frameworks:**  
-Pandas | NumPy | Seaborn | Matplotlib | scikit-learn | TensorFlow/Keras | OpenCV
+---
 
-**Tools & Concepts:**  
-Google Colab | Git | DBMS | OOP | CNNs | AI Detection | API Deployment (FastAPI)
+## 💼 Tech Stack
+
+### Languages:
+`Python` · `SQL` · `C++` · `HTML` · `CSS` · `JavaScript`
+
+### Python Libraries & Tools:
+`Pandas` · `NumPy` · `Seaborn` · `Matplotlib` · `scikit-learn` · `OpenCV` · `TensorFlow/Keras`
+
+### Additional Skills:
+- Database Systems (MySQL, SQLite)
+- Object-Oriented Programming (OOP)
+- Version Control (Git & GitHub)
+- Data Preprocessing & Model Deployment (FastAPI)
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Facial Expression Recognition  
-> CNN-based model using FER-2013, CK+, RAF-DB  
-> Target: 90%+ accuracy using hybrid datasets  
+### 🎯 Facial Expression Recognition (CNN)
+> Custom-trained CNN using FER-2013, CK+, and RAF-DB datasets. Focused on achieving 90%+ accuracy through dataset integration and model optimization.
 
-### 🔹 Library Management System (DBMS)  
-> ERD, 3NF, SQL queries, staff/member/book/reservation handling
+### 📚 Library Management System
+> Advanced DBMS project with full ER modeling, normalization (3NF), and SQL DDL/DML queries covering books, members, staff, and reservations.
 
-### 🔹 Parking Lot Management (C++)  
-> Multi-story design with stacks, queues, dynamic arrays
+### 🚗 Parking Management System (C++)
+> Multi-level parking lot simulation using object-oriented design, stacks, queues, and dynamic arrays.
 
-### 🔹 Fake News Detector  
-> XGBoost + Sentence Transformers | Custom UI for local deployment
+### 📰 Fake News Detection
+> Built with SentenceTransformers + XGBoost for binary text classification. Features custom UI and local deployment using FastAPI.
 
-### 🔹 EDA + Income Prediction  
-> Data cleaning, visualization & random forest model for income prediction (adult.csv)
+### 💼 Income Prediction with EDA
+> Full data cleaning, visualization, and model deployment using the `adult.csv` dataset and Random Forest.
 
 ---
 
-## 📘 Documents
+## 📑 Documents & Reports
 
-- ✅ SRS for Airline Management System  
-- ✅ ER Diagrams, Functional Dependencies, Normal Forms  
-- ✅ Colab-ready Notebooks with step-by-step interpretations
+- 📘 **Software Requirements Specification (SRS)** for Airline Management System  
+- 🗂️ ER Diagrams & Functional Dependency Mapping  
+- ✅ Colab-based Projects with Cell-by-Cell Interpretation for Clarity  
 
 ---
 
 ## ✨ Quote I Live By
 
-> ![Quote](https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif)  
-> *"The future belongs to those who learn more skills and combine them in creative ways." – Robert Greene*
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Quote animation" /><br/>
+  <strong>“The future belongs to those who learn more skills and combine them in creative ways.”</strong><br/>
+  <em>— Robert Greene</em>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaHalim&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHalim&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Let's Connect!
-
-📫 Email: **hamzahalim9211@gmail.com**  
-💼 LinkedIn: [Add your profile here]  
-🧠 Always open to collaborations, mentorship, or cool AI talks!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaHalim&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHalim&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
-_Thanks for stopping by! ⭐_  
+## 🌐 Let's Connect
+
+- 📫 **Email:** hamzahalim9211@gmail.com 
+- 💼 **LinkedIn:** [Add your profile link here]  
+- 🤝 Always open to collaborations, research ideas, and community contributions!
+
+---
+
+_Thanks for stopping by! ⭐_
