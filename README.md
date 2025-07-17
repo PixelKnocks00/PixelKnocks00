@@ -87,6 +87,7 @@ I am an aspiring AI engineer with a strong foundation in programming and data an
 - 📫 **Email:** hamzahalim9211@gmail.com 
 - 💼 **LinkedIn:** [Add your profile link here]  
 - 🤝 Always open to collaborations, research ideas, and community contributions!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza%20Halim-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hamza-halim-b4a927297/)
 
 ---
 
